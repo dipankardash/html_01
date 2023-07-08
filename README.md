@@ -1,4 +1,4 @@
 # practice_01
 
 live preview
-https://dipankardash.github.io/html_01/
+https://dipankardash.github.io/practice_01/
